@@ -1,7 +1,9 @@
 body {
 	font-size: 100%;
 }
-.header {
+
+/* article rules */
+.aheader {
 	/* sizing on the page */
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -17,7 +19,7 @@ body {
 	font-weight: bolder;
 }
 
-.content {
+.acontent {
 	/* sizing on the page */
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
