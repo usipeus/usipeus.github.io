@@ -3,7 +3,7 @@ body {
 }
 
 /* article rules */
-.aheader {
+.article_header {
 	/* sizing on the page */
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -19,7 +19,7 @@ body {
 	font-weight: bolder;
 }
 
-.acontent {
+.article_content {
 	/* sizing on the page */
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
