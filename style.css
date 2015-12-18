@@ -9,13 +9,13 @@ body {
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
-	max-width: 80%;
+	max-width: 60%;
 	margin-left: 15%;
-	margin-right: 30%;
+	margin-right: 25%;
 	
 	/* text */
-	font-family: Garamond, Times New Roman, serif;
-	font-size: 2.5em;
+	font-family: Garamond, serif;
+	font-size: 3em;
 	font-weight: bolder;
 }
 
@@ -30,9 +30,40 @@ body {
 	margin-right: 20%;
 	
 	/* text */
-	font-family: 'Oxygen', Helvetica, sans-serif;
+	font-family: 'Oxygen', sans-serif;
 	font-size: 1.5em;
 	text-align: justify;
 }
 
-/*  */
+/* index page */
+.index_content {
+	/* sizing on the page */
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	max-width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+
+	/* text */
+	font-family: 'Oxygen', sans-serif;
+	font-size: 1.5em;
+	text-align: left;
+}
+
+.index_header {
+	/* sizing on the page */
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	max-width: 60%;
+	margin-left:15%;
+	margin-right:25%;
+
+	/* text */
+	font-family: Garamond, serif;
+	font-size: 1.5em;
+	text-align: left;
+}
